@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at vga_driver.v(48): always construct contains both blocking and non-blocking assignments File: M:/ECE_287/vga_rhythm_game/vga_driver.v Line: 48
+Warning (10268): Verilog HDL information at score_manager.v(19): always construct contains both blocking and non-blocking assignments File: M:/ECE_287/vga_rhythm_game/score_manager.v Line: 19

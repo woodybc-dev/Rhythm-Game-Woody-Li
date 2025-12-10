@@ -1,0 +1,20 @@
+Fitter Status : Successful - Wed Dec 10 12:36:12 2025
+Quartus Prime Version : 23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name : vga_rhythm_game
+Top-level Entity Name : vga_rhythm_game
+Family : Cyclone V
+Device : 5CSEMA5F31C6
+Timing Models : Final
+Logic utilization (in ALMs) : 1,434 / 32,070 ( 4 % )
+Total registers : 411
+Total pins : 96 / 457 ( 21 % )
+Total virtual pins : 0
+Total block memory bits : 2,359,296 / 4,065,280 ( 58 % )
+Total RAM Blocks : 288 / 397 ( 73 % )
+Total DSP Blocks : 0 / 87 ( 0 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0 / 6 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )
