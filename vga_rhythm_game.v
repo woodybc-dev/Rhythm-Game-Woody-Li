@@ -1,5 +1,5 @@
 // 4-lane rhythm game project by Xingyu Li (Silas) and Brooke Woody
-// 1 top module, 16 sub modules in total (including a RAM: 1-PORT)
+// 1 top module, 15 sub modules in total (including a RAM: 1-PORT)
 module vga_rhythm_game (
     input         CLOCK_50,
     input  [3:0]  KEY,        // pushbuttons, active LOW on DE1-SoC
@@ -219,3 +219,4 @@ module vga_rhythm_game (
     assign LEDR = 10'd0;
 
 endmodule
+
